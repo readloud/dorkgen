@@ -1,0 +1,20 @@
+inurl:/add-blog.php
+inurl:/add_blog.php
+inurl:/addblog.html
+inurl:/addyourblog.asp
+inurl:/blog-submission.html
+inurl:/blog_submissions.html
+inurl:/submit-blog.html
+inurl:/submit_blog.html
+inurl:/submit_blog.html
+inurl:/showComment
+inurl:/comment-iframe.do
+inurl:/commentBodyField
+inurl:/commentBody
+inurl:/commentsHolder
+inurl:/Enter your comment
+inurl:/BLOG_CMT_onCommentBodyChange
+inurl:/BLOG_CMT_getBG();
+inurl:/BLOG_CMT_addNotLoggedInGaiaIdentity();
+inurl:/BLOG_CMT_addNameUrlIdentityFactory();
+inurl:/BLOG_CMT_addAnonIdentity();

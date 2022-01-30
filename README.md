@@ -1,7 +1,7 @@
 # DORK SCANNER #
 
-> **This is a fork of the original [project](https://github.com/MrCl0wnLab/SCANNER-INURLBR.git).**
-> **This is a fork of the original python [project](https://github.com/madhavmehndiratta/dorkScanner.git).**
+> **This is a fork of the original PHP [project](https://github.com/MrCl0wnLab/SCANNER-INURLBR.git).**
+> **and the original python [project](https://github.com/madhavmehndiratta/dorkScanner.git).**
 
 ## Introduction ##
 

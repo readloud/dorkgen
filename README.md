@@ -1,6 +1,7 @@
 # DORK SCANNER #
 
-> **This is a fork of the original [project](https://github.com/MrCl0wnLab).**
+> **This is a fork of the original [project](https://github.com/MrCl0wnLab/SCANNER-INURLBR.git).**
+> **This is a fork of the original python [project](https://github.com/madhavmehndiratta/dorkScanner.git).**
 
 ## Introduction ##
 
@@ -638,6 +639,18 @@ To get a list of all options and switches use:
 php inurl.php --help
 php inurl.php --info
 ```
+```
+```properties 
+
+    ██████╗░░█████╗░██████╗░██╗░░██╗  ░██████╗░█████╗░░█████╗░███╗░░██╗███╗░░██╗███████╗██████╗░
+    ██╔══██╗██╔══██╗██╔══██╗██║░██╔╝  ██╔════╝██╔══██╗██╔══██╗████╗░██║████╗░██║██╔════╝██╔══██╗
+    ██║░░██║██║░░██║██████╔╝█████═╝░  ╚█████╗░██║░░╚═╝███████║██╔██╗██║██╔██╗██║█████╗░░██████╔╝
+    ██║░░██║██║░░██║██╔══██╗██╔═██╗░  ░╚═══██╗██║░░██╗██╔══██║██║╚████║██║╚████║██╔══╝░░██╔══██╗
+    ██████╔╝╚█████╔╝██║░░██║██║░╚██╗  ██████╔╝╚█████╔╝██║░░██║██║░╚███║██║░╚███║███████╗██║░░██║
+    ╚═════╝░░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝  ╚═════╝░░╚════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚══╝╚══════╝╚═╝░░╚═╝
+    
+    [Made By: Madhav Mehndiratta](https://github.com/madhavmehndiratta/dorkScanner.git) 
+
 ```
 $ python3 dorkScanner.py --help
 usage: dorkScanner.py [-h] [-q QUERY] [-e ENGINE] [-p PAGES] [-P PROCESSES]

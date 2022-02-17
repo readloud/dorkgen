@@ -15,6 +15,6 @@ RUN apt install -y --force-yes \
     git
 
 RUN git clone https://github.com/anonymasz/dorkgen.git
-WORKDIR $PWD/SCANNER-INURLBR
-RUN chmod +x inurlbr.php
-RUN ln -s $PWD/inurlbr.php /usr/bin/inurlbr.php
+WORKDIR $PWD/dorkgen
+RUN chmod +x inurl.php
+RUN ln -s $PWD/inurl.php /usr/bin/inurl.php

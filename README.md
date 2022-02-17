@@ -39,11 +39,11 @@ docker build -t getting-started dorkgen
 
 ## Author
 
-👤 **Franck Abgrall**
+👤 **Source**
 
 * [d34dfr4m3](https://github.com/d34dfr4m3/goDuck)
 * [Barbarossa](https://github.com/nalonal/barbarossa)
-* [MrCl0wnLab]https://github.com/MrCl0wnLab/SCANNER-INURLBR)
+* [MrCl0wnLab](https://github.com/MrCl0wnLab/SCANNER-INURLBR)
 * [BullsEye0](https://github.com/BullsEye0/dorks-eye)
 * [Madhav Mehndiratta](https://github.com/madhavmehndiratta/dorkScanner)
 
@@ -57,7 +57,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2022 This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+Copyright © 2022 This project is [MIT](https://github.com/mansz81/dorkgen/blob/main/dorks-eye/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

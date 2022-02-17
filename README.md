@@ -37,9 +37,9 @@ docker build -t getting-started dorkgen
 - [dorks-eye](/dorks-eye#readme)
 - [dorkScanner](/dorkScanner#readme)
 
-## Author
+## Source
 
-👤 **Source**
+👤 **Author**
 
 * [d34dfr4m3](https://github.com/d34dfr4m3/goDuck)
 * [Barbarossa](https://github.com/nalonal/barbarossa)
@@ -49,7 +49,7 @@ docker build -t getting-started dorkgen
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
+[Contributions](https://github.com/mansz81/dorkgen/blob/main/.github/Contributors.md), issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 

@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to dork generator 👋</h1>
+<h1 align="center">dork generator 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/readme-md-generator" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/readme-md-generator.svg">

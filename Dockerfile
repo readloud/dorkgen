@@ -14,7 +14,8 @@ RUN apt install -y --force-yes \
     php5-curl \
     git
 
-RUN git clone https://github.com/anonymasz/dorkgen.git
+RUN pip install -r requirements.txt
+RUN git clone https://github.com/mansz81/dorkgen.git
 WORKDIR $PWD/dorkgen
-RUN chmod +x inurl.php
-RUN ln -s $PWD/inurl.php /usr/bin/inurl.php
+RUN chmod +x inurlbr.php
+RUN ln -s $PWD/inurlbr.php /usr/bin/inurlbr.php

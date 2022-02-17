@@ -1,3 +1,7 @@
+yagooglesearch==1.6.0
+elasticsearch==7.16.3
+PrettyTable==0.7.2
+barbarossa==0.0.3
 bs4
 colorama==0.4.3
 tqdm==4.41.1
@@ -9,14 +13,9 @@ pandas
 googletransx
 geopy
 attrs>=20.1.0
-yagooglesearch==1.6.0
-elasticsearch==7.16.3
-PrettyTable==0.7.2
-barbarossa==0.0.3
 aiohttp_socks
 asyncio
 dataclasses
 cchardet
 proxybroker
 schedule
-google

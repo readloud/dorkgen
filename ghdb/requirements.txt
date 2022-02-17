@@ -1,0 +1,4 @@
+barbarossa==0.0.3
+requests
+datetime
+pyfiglet

@@ -1,0 +1,10 @@
+y
+(1, 'https://twitter.com/Bro43883210?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor')
+(2, 'https://twitter.com/Bro43883210/status/1494237007173672960?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet')
+(3, 'https://twitter.com/Bro43883210/status/1494236841788145665?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet')
+(4, 'https://twitter.com/Bro43883210/status/1494236298160205834?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet')
+(5, 'https://twitter.com/Bro43883210/status/1494235905678213120?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet')
+(6, 'https://twitter.com/hashtag/stw')
+(7, 'https://www.instagram.com/majalah_stw/?hl=en')
+(8, 'https://en.wikipedia.org/wiki/Fortnite:_Save_the_World')
+(9, 'https://www.instagram.com/explore/tags/stw/?hl=en')

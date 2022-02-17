@@ -1,0 +1,6 @@
+inurl:login.cfm
+filetype:cfm
+filetype:cfm "cfapplication name" password
+intitle:"Error Occured" "The error occured in" filetype:cfm
+intitle:"ColdFusion Administrator Login"
+intitle:"Index of" cfide

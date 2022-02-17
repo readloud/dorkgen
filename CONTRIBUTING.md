@@ -1,9 +1,9 @@
-# Contributing to Readme Markdown Generator
+# Contributing to DorkScaner Author
 
 👍🎉 First off, thanks for taking the time to contribute! 🎉👍
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
-Please note we have a [code of conduct](https://github.com/kefranabg/readme-md-generator/blob/master/.github/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+Please note this have a [author](https://github.com/mansz81/dorkgen/blob/main/.github/Contributors.md), please follow it in all your interactions with the project.
 
 ## Table of Contents
 
@@ -19,25 +19,17 @@ To install the project you need to have `node` and `npm`
 
     ```sh
     # Clone your fork
-    git clone https://github.com/<your-username>/readme-md-generator.git
+    git clone https://github.com/<your-username>/<author-repo-name>.git
 
     # Navigate to the newly cloned directory
-    cd readme-md-generator
+    cd dorkgen
     ```
-
-2.  Your environment needs to be running `node` version >= 9.3.0 and `npm` version >= 5.5.0.
-
-3.  from the root of the project: `npm` to install all dependencies
-
-    - make sure you have latest `npm` version
-
-4.  from the root of the project: `npm start` to run the cli.
 
 > Tip: Keep your `master` branch pointing at the original repository and make
 > pull requests from branches on your fork. To do this, run:
 >
 > ```sh
-> git remote add upstream https://github.com/kefranabg/readme-md-generator.git
+> git remote add upstream https://github.com/<your-username>/<author-repo-name>.git
 > git fetch upstream
 > git branch --set-upstream-to=upstream/master master
 > ```
@@ -52,10 +44,4 @@ To install the project you need to have `node` and `npm`
 
 Please go through existing issues and pull requests to check if somebody else is already working on it.
 
-Also, make sure to run the tests and lint the code before you commit your
-changes.
-
-```sh
-npm run test
-npm run lint
-```
+Also, make sure to run the tests and lint the code before you commit your changes.

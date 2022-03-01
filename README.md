@@ -18,7 +18,7 @@
 
 > CLI that generates beautiful README.md files.
 
-### 🏠 [Homepage](https://github.com/mansz81/dorkgen.git#readme)
+### 🏠 [Homepage](https://readloud.github.io/dorkgen/)
 
 ## Install
 

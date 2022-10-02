@@ -47,6 +47,7 @@ docker build -t getting-started dorkgen
 * [MrCl0wnLab](https://github.com/MrCl0wnLab/SCANNER-INURLBR)
 * [BullsEye0](https://github.com/BullsEye0/dorks-eye)
 * [Madhav Mehndiratta](https://github.com/madhavmehndiratta/dorkScanner)
+* [six2dez](https://github.com/six2dez/dorks_hunter)
 
 ## 🤝 Contributing
 

@@ -20,3 +20,5 @@ cchardet
 proxybroker
 schedule
 google
+argparse
+tldextract

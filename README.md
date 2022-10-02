@@ -36,6 +36,7 @@ docker build -t getting-started dorkgen
 - [INURLBR](/inurl#readme)
 - [dorks-eye](/dorks-eye#readme)
 - [dorkScanner](/dorkScanner#readme)
+- [dorks_hunter](/dorks_hunter#readme)
 
 ## Source
 
